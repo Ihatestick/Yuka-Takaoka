@@ -6,11 +6,9 @@ the help command. For now this is just a Beta.
 
 Coming soon... 
 
-+acces victim camera 
++access victim camera
 
-+acces victim microphone
-
-+acces victim cmd
++access system info
 
 
 ohhhh... yeah and just reminding you that i am not responsible for any
