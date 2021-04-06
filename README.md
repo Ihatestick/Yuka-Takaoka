@@ -1,4 +1,4 @@
-# The-Stick-Hacker
+# The-Yuka-Takaoka
 Victim should execute slave file and connect to
 server addres(the name of the device where is gonna be stored the file)
 and the server file should run into the hacker device. If you need any help just run
