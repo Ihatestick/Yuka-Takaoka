@@ -6,9 +6,8 @@ the help command. For now this is just a Beta.
 
 Coming soon... 
 
-+access victim camera
++Launch scripts
 
-+access system info
 
 
 ohhhh... yeah and just reminding you that i am not responsible for any
