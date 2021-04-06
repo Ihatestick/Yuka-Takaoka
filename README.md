@@ -8,7 +8,7 @@ Finally the update is finnaly here and guess what now you can also launch script
 
 Comming soon...
 
-+port scanner implemented (for scanning victims port)
++port scanner (for scanning victims port)
 
 +ip tracker (for scanning victims ip)
 
